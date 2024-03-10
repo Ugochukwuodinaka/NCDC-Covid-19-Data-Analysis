@@ -92,4 +92,4 @@ There was no need to join or blend data as we have just a single table for this 
 ![](images/NCDC_COVID-19_DATA_ANALYSIS1.png)
 
 #### Dashboard View 2
-![](images/NCDC_COVID-19_DATA_ANALYSIS1.png)
+![](images/NCDC_COVID-19_DATA_ANALYSIS2.png)
