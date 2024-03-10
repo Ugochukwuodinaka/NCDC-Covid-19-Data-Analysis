@@ -78,6 +78,6 @@ This dataset is made up of a single table with 9 columns and 36 rows of data rep
 
 **Tableau Data View**
 
-Tableau Screenshot                                                             |                                
+Tableau Data Screenshot                                                             |                                
 :---------------------------------------------------------------------------------:|
 ![](Tableau_Data_Screenshot.png)
