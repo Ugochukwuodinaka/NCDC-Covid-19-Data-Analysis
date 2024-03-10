@@ -93,3 +93,18 @@ There was no need to join or blend data as we have just a single table for this 
 
 #### Dashboard View 2
 ![](images/NCDC_COVID-19_DATA_ANALYSIS2.png)
+
+
+### NCDC Project Analysis:
+In this analysis, the following Key findings below were made:
+- The Total Number of States for this Analysis including the state capital is __37.__
+- Total Confirmed Cases within this period was __266,339.__
+- The Total Active Cases was __4,131.__
+- The Total Recovery Cases was __259,046.__
+- Total Samples Tested Cases was __5,928,694.__
+- The Total Deaths within this period was __3,155.__
+
+
+- <images/Tests_Carried_Out_By_States.png" width="350">
+- **Tests Carried Out By States:**
+- In this analysis, our first insight 
