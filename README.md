@@ -105,6 +105,6 @@ In this analysis, the following Key findings below were made:
 - The Total Deaths within this period was __3,155.__
 
 
-- <images/Tests_Carried_Out_By_States.png" width="350">
+- <img src="images/Tests_Carried_Out_By_States.png" width="350">
 - **Tests Carried Out By States:**
 - In this analysis, our first insight 
