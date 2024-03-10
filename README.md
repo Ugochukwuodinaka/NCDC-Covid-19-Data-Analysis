@@ -1,5 +1,5 @@
 # NCDC Covid-19 Data Analysis
-![](Covid-19_image.jpg)
+![](images/Covid-19_image.jpg)
 
 
 ## Project Overview
@@ -80,4 +80,16 @@ This dataset is made up of a single table with 9 columns and 36 rows of data rep
 
 Tableau Data Screenshot                                                             |                                
 :---------------------------------------------------------------------------------:|
-![](Tableau_Data_Screenshot.png)
+![](images/Tableau_Data_Screenshot.png)
+
+
+## Join/ Blend Data
+There was no need to join or blend data as we have just a single table for this analysis.
+
+
+## Tableau Visualization:
+#### Dashboard View 1
+![](images/NCDC_COVID-19_DATA_ANALYSIS1.png)
+
+#### Dashboard View 2
+![](images/NCDC_COVID-19_DATA_ANALYSIS1.png)
