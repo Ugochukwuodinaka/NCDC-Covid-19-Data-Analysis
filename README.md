@@ -177,7 +177,7 @@ In this analysis, the following Key findings below were made:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/NCDCCOVID-19ANALYSIS_17041172340910/Dashboard1)
 
 
-## Recommendations Reducing The Spread of Covid-19 VIn Nigeria:
+## Recommendations On Reducing The Spread of Covid-19 VIn Nigeria:
 - __Public Health Education and Awareness:__ NCDC should launch extensive public health campaigns to educate the population about Covid-19 transmission modes, symptoms, and preventive measures. They should utilize various communication channels, including mass media, social media, and community outreach, to reach diverse audiences across the country.
 - __Mask-Wearing Mandates and Compliance:__ NCDC should enforce mandatory mask-wearing policies in public spaces, transportation hubs, and crowded areas. THey should also ensure the availability and affordability of masks, and implement measures to encourage consistent mask-wearing behavior among the populace.
 - __Enhanced Testing and Contact Tracing:__ They need to Ramp up testing capacity and accessibility to promptly identify and isolate Covid-19 cases. They can also strengthen contact tracing efforts to track and quarantine individuals who have been in close contact with confirmed cases, thereby containing the spread of the virus.
