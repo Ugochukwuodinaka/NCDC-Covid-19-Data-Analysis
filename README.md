@@ -107,4 +107,61 @@ In this analysis, the following Key findings below were made:
 
 - <img src="images/Tests_Carried_Out_By_States.png" width="350">
 - **Tests Carried Out By States:**
-- In this analysis, our first insight 
+- This analysis is on the provides information on the number of Covid-19 tests carried out by various states in Nigeria. Here's an analysis of the data along with insights i derived from it:
+- __Lagos Leads in Testing:__ Lagos state has conducted the highest number of Covid-19 tests, with 1,389,728 tests carried out. This indicates the proactive approach of Lagos in testing for Covid-19, likely due to its status as a major urban center and economic hub with a high population density.
+- __Significant Testing in Federal Capital Territory (FCT):__ The FCT follows closely behind Lagos with 767,808 tests conducted. As the capital city of Nigeria, FCT likely prioritizes testing to monitor and control the spread of the virus in the political and administrative center of the country.
+- __Regional Disparities in Testing:__ There are notable differences in testing numbers across states. While some states like Lagos, FCT, Rivers, and Kaduna have conducted a substantial number of tests, others have significantly lower testing numbers. This suggests disparities in testing infrastructure, resources, population, and priorities among states.
+- __Importance of Testing Strategy:__ States with higher testing numbers may have implemented robust testing strategies, including proactive testing, targeted testing campaigns, and widespread availability of testing facilities. These strategies are crucial for early detection, contact tracing, and containment of Covid-19 transmission.
+- __Testing Challenges in Some States:__ States with lower testing numbers may face challenges such as limited access to testing facilities, inadequate testing kits and equipment, logistical constraints, or lower perceived risk of Covid-19. 
+- __Need for Data-driven Decision Making:__ The data underscores the importance of data-driven decision-making in managing the Covid-19 pandemic. Accurate and timely testing data enables health authorities and policymakers to assess the extent of Covid-19 transmission, allocate resources effectively, and implement targeted interventions to control the spread of the virus.
+
+
+- <img src="images/Confirmed_Cases_By_State.png" width="350">
+- **Confirmed Cases By State:**
+- In my analysis of this data, it reveals significant disparities in the number of confirmed Covid-19 cases among various states in Nigeria. Here's a closer look at the insights i derived from the analysis:
+- __Lagos' Predominance in Confirmed Cases:__ Lagos state emerges as the epicenter of Covid-19 transmission in Nigeria, with a staggering 104,266 confirmed cases. This high number can be attributed to several factors including its dense population, status as a major economic and transportation hub, and early detection efforts.
+- __FCT's Considerable Burden:__ Following closely behind Lagos is the Federal Capital Territory (FCT) with 29,403 confirmed cases. Given its role as the political and administrative center of Nigeria, the FCT faces significant challenges in controlling the spread of the virus due to its high population density and frequent movement of people.
+- __Notable Spread Across Multiple States:__ While Lagos and FCT account for the majority of confirmed cases, several other states including Rivers with 18,089 confirmed cases, Kaduna with 11,662 cases, Oyo with 10,350, and Plateau with 10,349 cases also report relatively high numbers of confirmed cases. This indicates widespread transmission of the virus across different regions of Nigeria.
+- __Concerns Over Emerging Hotspots:__ States such as Rivers, Kaduna, and Oyo experienced increasing numbers of confirmed cases, raising concerns about the emergence of new hotspots. Swift and targeted interventions are crucial to prevent further escalation of transmission in these areas.
+- __Challenges in Reporting and Surveillance:__ Discrepancies in the number of confirmed cases among states may reflect variations in testing capacity, surveillance systems, and reporting practices. Efforts to enhance testing infrastructure and improve data accuracy are essential for obtaining a more comprehensive picture of the pandemic's trajectory.
+
+
+- <img src="images/Active_Cases_By_State.png" width="350">
+- **Active Cases By State:**
+- In this analysis, i provided insights into the number of active Covid-19 cases across different states in Nigeria. Here's an analysis of the active cases by state along with key insights i derived from the data:
+- __Lagos Maintains Highest Active Cases:__ Lagos state continues to lead with the highest number of active Covid-19 cases, standing at 1,518. Despite ongoing efforts to control the spread, Lagos faces persistent challenges due to its large population and dense urban environment.
+- __Varied Active Cases Across States:__ There is significant variation in the number of active cases among states. While Lagos has the highest count, other states like Delta has 530 active cases, Kwara has 452, and Nasarawa also report a notable number of active cases of 447. This suggests varying levels of Covid-19 transmission and containment efforts across different regions.
+- __Positive Trends in Some States:__ Several states, including Zamfara, Sokoto, and Kogi, report zero active cases. This indicates positive trends in controlling the spread of the virus and potentially achieving containment in these regions. However, cautious monitoring and continued vigilance are necessary to prevent resurgence.
+- __Negative Active Cases in Few States:__ Bayelsa and Edo states report negative active cases of -8 and -40 respectively, implying that the number of recoveries exceeds the number of current active cases. While this may signify successful containment efforts and recovery rates, it could also be attributed to data reporting inconsistencies or discrepancies.
+
+
+- <img src="images/Recovies_By_State.png" width="350">
+- **Recovery Cases By State:**
+- This analysis data provides insights into the number of Covid-19 recovery cases reported across different states in Nigeria. Here's an analysis of the recovery cases by state along with key insights i derived from the data:
+- __High Recovery Rates in Lagos and FCT:__ Lagos and the Federal Capital Territory (FCT) lead in the number of reported recovery cases, with Lagos recording 101,977 recoveries and FCT reporting 29,076 recoveries. This reflects the effectiveness of healthcare infrastructure, treatment protocols, and recovery efforts in these regions.
+- __Consistent Recovery Trends:__ Several states, including Rivers with 17,922 recovery cases, Kaduna with 11,558, Plateau with 10,232, and Oyo with 10,135 recoveries, report significant numbers of recovery cases, indicating consistent recovery trends across different regions of Nigeria. 
+- __Recovery Efforts Across States:__ Recovery cases are reported in all states, demonstrating nationwide efforts to combat the Covid-19 pandemic and provide adequate healthcare services to affected individuals. This underscores the collective response of healthcare professionals, government agencies, and communities in addressing the public health crisis.
+- __Variations in Recovery Rates:__ While some states report high recovery rates, others have relatively lower numbers of recovery cases like Yobe with 625 recoveries, Kebbi with 454, Zamfara with 366 and Kogi with least recovery cases of 3 recoveries. Factors such as healthcare infrastructure, access to medical resources, and treatment protocols may influence variations in recovery rates among states.
+
+
+- <img src="images/Deaths_By_State.png" width="350">
+- **Death Cases By State:**
+- In this analysis, insights into the number of Covid-19 related death cases reported across different states in Nigeria were provided. Here's an analysis of the death cases by state along with key insights i derived from the data:
+- __High Mortality Rates in Lagos and Edo:__ Lagos and Edo states report the highest number of Covid-19 related death cases, with Lagos recording 771 deaths and Edo reporting 322 deaths. These states, as major urban centers with high population density, have experienced significant challenges in managing the impact of the pandemic on healthcare systems and mortality rates.
+- __Regional Variations in Mortality:__ There are notable variations in Covid-19 related death cases among states. While some states like Lagos, Edo, and FCT with 249 death cases report relatively high mortality rates, other states like Jigawa with 18 death cases, Kebbi with 16, Zamfara with 9, Yobe with 9, and Kogi with 2, all have the lowest numbers of death cases. This reflects differences in healthcare infrastructure, access to medical resources, and response strategies across regions.
+- __Impact of Healthcare Infrastructure:__ States with robust healthcare infrastructure and resources may be better equipped to manage Covid-19 cases and reduce mortality rates through timely medical interventions, intensive care, and supportive treatment. Conversely, states with limited healthcare capacity coupled with a larger population, may face higher mortality rates due to challenges in providing adequate medical care to patients.
+- __Factors Influencing Mortality:__ Various factors may contribute to differences in mortality rates among states, including population demographics, prevalence of underlying health conditions, effectiveness of public health measures, and access to healthcare services. 
+
+
+- <img src="images/Confirmed_Cases_%26_Death_Cases_Across_Nigeria.png" width="550">
+- **Geospatial Map of Confirmed Cases and Death Cases Across Nigeria:**
+- This interactive geospatial map illustrates the distribution of confirmed Covid-19 cases and related deaths across states in Nigeria. It provides valuable insights into the geographic spread of the pandemic. Here's a detailed analysis of the benefits and implications of this map:
+-__Visualizing Geographic Spread:__ This geospatial map allows stakeholders to visualize the distribution of confirmed Covid-19 cases and related deaths across different states in Nigeria. By plotting data points on the map, users can quickly identify regions with high case counts and assess the extent of the pandemic's geographic spread.
+- __Risk Assessment:__ The map serves as a tool for risk assessment, enabling health authorities, policymakers, and researchers to identify hotspots and emerging trends in Covid-19 transmission. Areas with high concentrations of confirmed cases and deaths may indicate heightened risk levels and the need for targeted interventions and resource allocation.
+- __Decision-making Support:__ The geospatial map assists decision-making processes by providing spatial context and actionable insights into the pandemic's impact on specific regions. Decision-makers can use the map to prioritize response efforts, allocate healthcare resources, and implement containment measures based on the severity and geographic distribution of Covid-19 cases.
+
+
+
+
+## Tableau VIsualization Dashboard:
+You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiYzM1NzJjZWEtZTc1Zi00NjNhLTk1NzMtMGEwODQ1ZjRlYzdhIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
