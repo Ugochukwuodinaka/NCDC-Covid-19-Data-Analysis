@@ -2,6 +2,17 @@
 ![](images/Covid-19_image.jpg)
 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Utilized](#tools-utilized)
+- [Tableau Visualization](#tableau-visualization)
+- [NCDC Project Analysis](#ncdc-project-analysis)
+- [Tableau Visualization Dashboard](#tableau-visualization-dashboard)
+- [Recommendations Reducing The Spread of Covid-19 In Nigeria:](#recommendations-on-reducing-the-spread-of-covid-19-in-nigeria:)
+
+
+
 ## Project Overview
 
 ### Introduction:
@@ -26,7 +37,7 @@ The NCDC Covid-19 Data Analysis project aims to provide insightful analysis and 
 - __Visual representation of spread:__ The development of an interactive geospatial map illustrating the distribution of confirmed Covid-19 cases and related deaths across states will facilitate visualization of the pandemic's geographic spread, aiding in risk assessment, decision-making, and public awareness efforts.
 
 
-### Dataset Overview
+### About The Dataset
 The Nigeria Centre for Disease Control and Prevention (NCDC) is the national public health institute with the mandate to lead the preparedness, detection and response to infectious disease outbreaks and public health emergencies. This organization played an active role during the peak period of the pandemic and are still actively playing that role till date. There mission is to protect the health of Nigerians through evidence-based prevention, integrated disease surveillance and response activities, using a one health approach, guided by research and led by a skilled workforce. This dataset was sourced from the NCDC general fact sheet- data as at 26th february, 2023 when it was last updated, and includes detailed information such as number of covid-19 tests carried out by states, confirmed cases by state, active cases by state, births, recoveries by state, and the pandemic death toll by state.
 
 This dataset is made up of a single table with 9 columns and 36 rows of data representing the 36 states of Nigeria. Below is the information abount the columns in this dataset:
@@ -50,7 +61,7 @@ This dataset is made up of a single table with 9 columns and 36 rows of data rep
 5. Communication and Reporting
 
 
-### Tools Used
+### Tools Utilized
 1. Microsoft Excel
     - Was used to:
         1. Was used to save extracted data from NCDC website,
@@ -162,6 +173,19 @@ In this analysis, the following Key findings below were made:
 
 
 
-
-## Tableau VIsualization Dashboard:
+## Tableau Visualization Dashboard:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/NCDCCOVID-19ANALYSIS_17041172340910/Dashboard1)
+
+
+## Recommendations Reducing The Spread of Covid-19 VIn Nigeria:
+- __Public Health Education and Awareness:__ NCDC should launch extensive public health campaigns to educate the population about Covid-19 transmission modes, symptoms, and preventive measures. They should utilize various communication channels, including mass media, social media, and community outreach, to reach diverse audiences across the country.
+- __Mask-Wearing Mandates and Compliance:__ NCDC should enforce mandatory mask-wearing policies in public spaces, transportation hubs, and crowded areas. THey should also ensure the availability and affordability of masks, and implement measures to encourage consistent mask-wearing behavior among the populace.
+- __Enhanced Testing and Contact Tracing:__ They need to Ramp up testing capacity and accessibility to promptly identify and isolate Covid-19 cases. They can also strengthen contact tracing efforts to track and quarantine individuals who have been in close contact with confirmed cases, thereby containing the spread of the virus.
+- __Vaccination Campaigns and Coverage:__ They need to carry out accelerate Covid-19 vaccination campaigns to achieve widespread immunization coverage across the population. They can address vaccine hesitancy through targeted communication strategies and community engagement initiatives.
+- __Promotion of Hygiene Practices:__ The organization needs to promote frequent handwashing with soap and water or use of hand sanitizers, especially after touching surfaces in public areas. They can provide or encourage other institutions or bodies to provide adequate facilities for hand hygiene in public spaces, workplaces, and educational institutions.
+- __Social Distancing Measures:__ They should implement and enforce social distancing guidelines in public settings, including maintaining a safe distance of at least one meter between individuals.They need to also limit the size of gatherings and events to reduce the risk of Covid-19 transmission in crowded environments.
+- __Community Engagement and Support:__ They can engage communities in Covid-19 response efforts through participatory approaches and community-based interventions. There is a need that they provide support to vulnerable populations, including access to healthcare services, food assistance, and socio-economic relief measures to mitigate the impacts of the pandemic.
+
+
+
+## Thank You For Following Through!
