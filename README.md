@@ -9,7 +9,7 @@
 - [Tableau Visualization](#tableau-visualization)
 - [NCDC Project Analysis](#ncdc-project-analysis)
 - [Tableau Visualization Dashboard](#tableau-visualization-dashboard)
-- [Recommendations On Reducing The Spread of Covid-19 In Nigeria:](#recommendations-on-reducing-the-spread-of-covid-19-in-nigeria:)
+- [Recommendations On Reducing The Spread of Covid-19 In Nigeria:](#recommendations-on-reducing-the-spread-of-covid-19-in-nigeria)
 
 
 
