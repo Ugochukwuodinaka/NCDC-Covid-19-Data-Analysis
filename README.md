@@ -164,4 +164,4 @@ In this analysis, the following Key findings below were made:
 
 
 ## Tableau VIsualization Dashboard:
-You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiYzM1NzJjZWEtZTc1Zi00NjNhLTk1NzMtMGEwODQ1ZjRlYzdhIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/NCDCCOVID-19ANALYSIS_17041172340910/Dashboard1)
