@@ -173,7 +173,7 @@ In this analysis, the following Key findings below were made:
 
 
 
-## Tableau Visualization Dashboard:
+## Tableau Dashboard Visualization:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/NCDCCOVID-19ANALYSIS_17041172340910/Dashboard1)
 
 
