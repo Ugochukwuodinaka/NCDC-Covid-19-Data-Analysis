@@ -20,12 +20,12 @@ The NCDC Covid-19 Data Analysis project aims to provide insightful analysis and 
 
 
 ### Objectives:
-- To compile and analyze the data on the number of Covid-19 tests conducted by individual states across Nigeria.
-- To systematically gather and assess information regarding the number of confirmed Covid-19 cases reported by each state in Nigeria.
-- To accurately track and monitor the number of active Covid-19 cases present in each state of Nigeria.
-- To document and analyze data pertaining to the number of Covid-19 recoveries reported by individual states across Nigeria.
-- To meticulously record and analyze the number of Covid-19 related deaths reported by each state within Nigeria.
-- To develop an interactive geospatial map illustrating the distribution of confirmed Covid-19 cases and Covid-19 related deaths across the various states of Nigeria.
+- Compilation of Covid-19 tests for individual states in Nigeria.
+- To systematically collect and appraise data on the figure of reported covid-19 cases from each state in Nigeria.
+- To keep the record same for all Covid-19 cases available in their states.
+- Record and aggregate data on the reported number of Covid-19 recoveries per state in Nigeria.
+- Keeping daily started tabulation of number of deaths from Covid-19 that each Nigerian state reported
+- Interactive geospatial map that shows the distribution of confirmed Covid-19 cases and deaths across the states of Nigeria.
 
 
 ### Expected Outcomes:
@@ -40,17 +40,19 @@ The NCDC Covid-19 Data Analysis project aims to provide insightful analysis and 
 ### About The Dataset
 The Nigeria Centre for Disease Control and Prevention (NCDC) is the national public health institute with the mandate to lead the preparedness, detection and response to infectious disease outbreaks and public health emergencies. This organization played an active role during the peak period of the pandemic and are still actively playing that role till date. There mission is to protect the health of Nigerians through evidence-based prevention, integrated disease surveillance and response activities, using a one health approach, guided by research and led by a skilled workforce. This dataset was sourced from the NCDC general fact sheet- data as at 26th february, 2023 when it was last updated, and includes detailed information such as number of covid-19 tests carried out by states, confirmed cases by state, active cases by state, births, recoveries by state, and the pandemic death toll by state.
 
-This dataset is made up of a single table with 9 columns and 36 rows of data representing the 36 states of Nigeria. Below is the information abount the columns in this dataset:
-- __State:__ The name of the state within Nigeria where Covid-19 cases are reported.
-- __Confirmed:__ The total number of confirmed Covid-19 cases reported in the respective state since the beginning of the pandemic.
-- __Confirmed (Last 2 Weeks):__ The number of confirmed Covid-19 cases reported in the respective state within the last two weeks, providing a more recent snapshot of the spread.
-- __Recoveries:__ The total number of individuals who have recovered from Covid-19 in the respective state since the beginning of the pandemic.
-- __Recoveries (Last 2 Weeks):__ The number of individuals who have recovered from Covid-19 in the respective state within the last two weeks, indicating recent recovery trends.
-- __Deaths:__ The total number of deaths attributed to Covid-19 in the respective state since the beginning of the pandemic.
-- __Deaths (Last 2 Weeks):__ The number of deaths attributed to Covid-19 in the respective state within the last two weeks, reflecting recent mortality patterns.
-- __Active Cases:__ The current number of active Covid-19 cases in the respective state, calculated as (Confirmed - Recoveries - Deaths).
-- __Testing:__ The total number of Covid-19 tests conducted in the respective state since the beginning of the pandemic, indicating testing efforts and capacity.
-- __Testing (Last 2 Weeks):__ The number of Covid-19 tests conducted in the respective state within the last two weeks, reflecting recent testing activities and trends.
+This dataset is made up of a single table with 9 columns and 36 rows of data representing the 36 states of Nigeria. Below is the data dictionary that describes the fields in this dataset:
+| Table                    | Field                    | Description                            |            
+|:------------------------ |:------------------------ |:-------------------------------------- |
+|Covid-19_outbreak_in_Nigeria.csv|State                  |The name of the state within Nigeria where Covid-19 cases are reported    |
+|                          |Confirmed                 |The total number of confirmed Covid-19 cases reported in the respective state since the beginning of the pandemic          |
+|                          |Confirmed (Last 2 Weeks)  |The number of confirmed Covid-19 cases reported in the respective state within the last two weeks, providing a more recent snapshot of the spread        |
+|                          |Recoveries                |The total number of individuals who have recovered from Covid-19 in the respective state since the beginning of the pandemic    |
+|                          |Recoveries (Last 2 Weeks) |The number of individuals who have recovered from Covid-19 in the respective state within the last two weeks, indicating recent recovery trends       |
+|                          |Deaths                    |The total number of deaths attributed to Covid-19 in the respective state since the beginning of the pandemic       |
+|                          |Deaths (Last 2 Weeks)     |The number of deaths attributed to Covid-19 in the respective state within the last two weeks, reflecting recent mortality patterns       |
+|                          |Active Cases              |The current number of active Covid-19 cases in the respective state, calculated as (Confirmed - Recoveries - Deaths) |
+|                          |Testing                   |The total number of Covid-19 tests conducted in the respective state since the beginning of the pandemic, indicating testing efforts and capacity |
+|                          |Testing (Last 2 Weeks)    |The number of Covid-19 tests conducted in the respective state within the last two weeks, reflecting recent testing activities and trends |
 <br />
 <br />
 
