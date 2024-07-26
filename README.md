@@ -60,8 +60,9 @@ This dataset is made up of a single table with 9 columns and 36 rows of data rep
 1. Data Transformation
 2. Data Visualiziation
 3. Descriptive Analytics
-4. Critical Thinking and Problem Solving
-5. Communication and Reporting
+4. Analytical and Critical Thinking
+5. Problem Solving
+6. Communication and Reporting
 <br />
 
 ### Tools Utilized
@@ -72,7 +73,7 @@ This dataset is made up of a single table with 9 columns and 36 rows of data rep
         3. Load the dataset for this analysis.
      
 2. Tableau (Was used to create dashboards for this analysis)
-    - The following Tableau were incorporated:
+    - The following Tableau features were incorporated:
         1. Calculated Fields
         2. Geospatial Analysis
         3. Page Navigation
@@ -113,8 +114,8 @@ There was no need to join or blend data as we have just a single table for this 
 
 ### NCDC Project Analysis:
 In this analysis, the following Key findings below were made:
-- The Total Number of States for this Analysis including the state capital is __37.__
-- Total Confirmed Cases within this period was __266,339.__
+- The Total Number of States in this Analysis including the Federal Capital Territory is __37.__
+- Total Confirmed Cases within the period recorded was __266,339.__
 - The Total Active Cases was __4,131.__
 - The Total Recovery Cases was __259,046.__
 - Total Samples Tested Cases was __5,928,694.__
@@ -125,25 +126,25 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Tests_Carried_Out_By_States.png" width="350">
 
 - **Tests Carried Out By States:**
-- This analysis is on the provides information on the number of Covid-19 tests carried out by various states in Nigeria. Here's an analysis of the data along with insights i derived from it:
+- This analysis provides information on the number of Covid-19 tests carried out by various states in Nigeria. Here's an analysis of the data along with insights i derived from it:
 - __Lagos Leads in Testing:__ Lagos state has conducted the highest number of Covid-19 tests, with 1,389,728 tests carried out. This indicates the proactive approach of Lagos in testing for Covid-19, likely due to its status as a major urban center and economic hub with a high population density.
 - __Significant Testing in Federal Capital Territory (FCT):__ The FCT follows closely behind Lagos with 767,808 tests conducted. As the capital city of Nigeria, FCT likely prioritizes testing to monitor and control the spread of the virus in the political and administrative center of the country.
 - __Regional Disparities in Testing:__ There are notable differences in testing numbers across states. While some states like Lagos, FCT, Rivers, and Kaduna have conducted a substantial number of tests, others have significantly lower testing numbers. This suggests disparities in testing infrastructure, resources, population, and priorities among states.
 - __Importance of Testing Strategy:__ States with higher testing numbers may have implemented robust testing strategies, including proactive testing, targeted testing campaigns, and widespread availability of testing facilities. These strategies are crucial for early detection, contact tracing, and containment of Covid-19 transmission.
 - __Testing Challenges in Some States:__ States with lower testing numbers may face challenges such as limited access to testing facilities, inadequate testing kits and equipment, logistical constraints, or lower perceived risk of Covid-19. 
-- __Need for Data-driven Decision Making:__ The data underscores the importance of data-driven decision-making in managing the Covid-19 pandemic. Accurate and timely testing data enables health authorities and policymakers to assess the extent of Covid-19 transmission, allocate resources effectively, and implement targeted interventions to control the spread of the virus.
+- __Need for Data-driven Decision Making:__ The data shows the importance of data-driven decision-making in managing the Covid-19 pandemic. Accurate and timely testing data enables health authorities and policymakers to assess the extent of Covid-19 transmission, allocate resources effectively, and implement targeted interventions to control the spread of the virus.
 <br />
 <br />
 
 - <img src="images/Confirmed_Cases_By_State.png" width="350">
 
 - **Confirmed Cases By State:**
-- In my analysis of this data, it reveals significant disparities in the number of confirmed Covid-19 cases among various states in Nigeria. Here's a closer look at the insights i derived from the analysis:
-- __Lagos' Predominance in Confirmed Cases:__ Lagos state emerges as the epicenter of Covid-19 transmission in Nigeria, with a staggering 104,266 confirmed cases. This high number can be attributed to several factors including its dense population, status as a major economic and transportation hub, and early detection efforts.
+- In my analysis of this data, significant disparities is revealed in the number of confirmed Covid-19 cases among various states in Nigeria. Here's a closer look at the insights i derived from the analysis:
+- __Lagos' Tops in Confirmed Cases:__ Lagos state emerges as the epicenter of Covid-19 transmission in Nigeria, with a staggering 104,266 confirmed cases. This high number can be attributed to several factors including its dense population, status as a major economic and transportation hub, and early detection efforts.
 - __FCT's Considerable Burden:__ Following closely behind Lagos is the Federal Capital Territory (FCT) with 29,403 confirmed cases. Given its role as the political and administrative center of Nigeria, the FCT faces significant challenges in controlling the spread of the virus due to its high population density and frequent movement of people.
 - __Notable Spread Across Multiple States:__ While Lagos and FCT account for the majority of confirmed cases, several other states including Rivers with 18,089 confirmed cases, Kaduna with 11,662 cases, Oyo with 10,350, and Plateau with 10,349 cases also report relatively high numbers of confirmed cases. This indicates widespread transmission of the virus across different regions of Nigeria.
 - __Concerns Over Emerging Hotspots:__ States such as Rivers, Kaduna, and Oyo experienced increasing numbers of confirmed cases, raising concerns about the emergence of new hotspots. Swift and targeted interventions are crucial to prevent further escalation of transmission in these areas.
-- __Challenges in Reporting and Surveillance:__ Discrepancies in the number of confirmed cases among states may reflect variations in testing capacity, surveillance systems, and reporting practices. Efforts to enhance testing infrastructure and improve data accuracy are essential for obtaining a more comprehensive picture of the pandemic's trajectory.
+- __Challenges in Reporting and Surveillance:__ Discrepancies in the number of confirmed cases among states may reflect variations in testing capacity, surveillance systems, and reporting practices. Efforts to enhance testing infrastructure and improve data accuracy are essential for obtaining a more comprehensive picture of the pandemic's course.
 <br />
 <br />
 
@@ -161,10 +162,10 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Recovies_By_State.png" width="350">
 
 - **Recovery Cases By State:**
-- This analysis data provides insights into the number of Covid-19 recovery cases reported across different states in Nigeria. Here's an analysis of the recovery cases by state along with key insights i derived from the data:
-- __High Recovery Rates in Lagos and FCT:__ Lagos and the Federal Capital Territory (FCT) lead in the number of reported recovery cases, with Lagos recording 101,977 recoveries and FCT reporting 29,076 recoveries. This reflects the effectiveness of healthcare infrastructure, treatment protocols, and recovery efforts in these regions.
+- This analysis focuses on the number of Covid-19 recovery cases reported across different states in Nigeria. Here's an analysis of the recovery cases by state along with key insights i derived from the data:
+- __High Recovery Rates in Lagos and FCT:__ Lagos and the Federal Capital Territory (FCT) lead in the number of reported recovery cases, with Lagos recording 101,977 recoveries and FCT reporting 29,076 recoveries. This indicates the effectiveness of healthcare infrastructure, treatment protocols, and recovery efforts in these regions.
 - __Consistent Recovery Trends:__ Several states, including Rivers with 17,922 recovery cases, Kaduna with 11,558, Plateau with 10,232, and Oyo with 10,135 recoveries, report significant numbers of recovery cases, indicating consistent recovery trends across different regions of Nigeria. 
-- __Recovery Efforts Across States:__ Recovery cases are reported in all states, demonstrating nationwide efforts to combat the Covid-19 pandemic and provide adequate healthcare services to affected individuals. This underscores the collective response of healthcare professionals, government agencies, and communities in addressing the public health crisis.
+- __Recovery Efforts Across States:__ Recovery cases are reported in all states, demonstrating nationwide efforts to combat the Covid-19 pandemic and provide adequate healthcare services to affected individuals. This shows the collective response of healthcare professionals, government agencies, and communities in addressing the public health crisis.
 - __Variations in Recovery Rates:__ While some states report high recovery rates, others have relatively lower numbers of recovery cases like Yobe with 625 recoveries, Kebbi with 454, Zamfara with 366 and Kogi with least recovery cases of 3 recoveries. Factors such as healthcare infrastructure, access to medical resources, and treatment protocols may influence variations in recovery rates among states.
 <br />
 <br />
@@ -183,10 +184,10 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Confirmed_Cases_%26_Death_Cases_Across_Nigeria.png" width="550">
 
 - **Geospatial Map of Confirmed Cases and Death Cases Across Nigeria:**
-- This interactive geospatial map illustrates the distribution of confirmed Covid-19 cases and related deaths across states in Nigeria. It provides valuable insights into the geographic spread of the pandemic. Here's a detailed analysis of the benefits and implications of this map:
-- __Visualizing Geographic Spread:__ This geospatial map allows stakeholders to visualize the distribution of confirmed Covid-19 cases and related deaths across different states in Nigeria. By plotting data points on the map, users can quickly identify regions with high case counts and assess the extent of the pandemic's geographic spread.
-- __Risk Assessment:__ The map serves as a tool for risk assessment, enabling health authorities, policymakers, and researchers to identify hotspots and emerging trends in Covid-19 transmission. Areas with high concentrations of confirmed cases and deaths may indicate heightened risk levels and the need for targeted interventions and resource allocation.
-- __Decision-making Support:__ The geospatial map assists decision-making processes by providing spatial context and actionable insights into the pandemic's impact on specific regions. Decision-makers can use the map to prioritize response efforts, allocate healthcare resources, and implement containment measures based on the severity and geographic distribution of Covid-19 cases.
+- This interactive geospatial map illustrates the spread of confirmed cases and related deaths due to Covid-19 across the states in Nigeria.It has, in very practical terms, greatly contributed to geographical understanding about the pandemic.Here is a detailed analysis of the insights and benefits of this map:
+- __Geo-spatial Spread Visualization:__ This geospatial map would be able to effectively show stakeholders how many confirmed Covid-19 cases and related deaths have occurred across different states in Nigeria.One would be able to plot these data points on the map, visualize at a glance the areas with a high case count, and also measure what extent of geographical spread has occurred due to this pandemic.
+– __Risk Assessment:__ Such a map would be of great use to health authorities, policy decision-making and researchers for assessing risks, thus helping in determining the location of the hotspots and the emerging trends of Covid-19 transmission.Places with high density in confirmed cases and deaths may show evidence for increased risk levels, hence calling for targeted interventions and resources.
+- __Decision-Making Support:__ The geospatial map allows decision-making about spatial context and actionable insight into the pandemic effect across different regions.On this mapping, the decision-maker will be in a position to: prioritize response efforts, allocate health resources, and execute containment measures that are commensurate with the severity and geographic distribution of Covid-19 cases.
 <br />
 <br />
 
@@ -198,8 +199,8 @@ You can view and interact with this dashboard report [here](https://public.table
 <br />
 
 ## Recommendations On Reducing The Spread of Covid-19 In Nigeria:
-- __Public Health Education and Awareness:__ NCDC should launch extensive public health campaigns to educate the population about Covid-19 transmission modes, symptoms, and preventive measures. They should utilize various communication channels, including mass media, social media, and community outreach, to reach diverse audiences across the country.
-- __Mask-Wearing Mandates and Compliance:__ NCDC should enforce mandatory mask-wearing policies in public spaces, transportation hubs, and crowded areas. THey should also ensure the availability and affordability of masks, and implement measures to encourage consistent mask-wearing behavior among the populace.
+- __Public Health Education and Awareness:__ The NCDC should launch extensive public health campaigns to educate the people on Covid-19 transmission modes, symptoms, and preventive measures. Communication channels, including mass media, social media, and community outreach, should be utilized to reach diverse audiences across the country.
+- __Mask-Wearing Mandates and Compliance:__ The NCDC should enforce mandatory mask-wearing policies in public spaces, transportation hubs, and crowded areas. THey should also ensure the availability and affordability of masks, and implement measures to encourage consistent mask-wearing behavior among the populace.
 - __Enhanced Testing and Contact Tracing:__ They need to Ramp up testing capacity and accessibility to promptly identify and isolate Covid-19 cases. They can also strengthen contact tracing efforts to track and quarantine individuals who have been in close contact with confirmed cases, thereby containing the spread of the virus.
 - __Vaccination Campaigns and Coverage:__ They need to carry out accelerate Covid-19 vaccination campaigns to achieve widespread immunization coverage across the population. They can address vaccine hesitancy through targeted communication strategies and community engagement initiatives.
 - __Promotion of Hygiene Practices:__ The organization needs to promote frequent handwashing with soap and water or use of hand sanitizers, especially after touching surfaces in public areas. They can provide or encourage other institutions or bodies to provide adequate facilities for hand hygiene in public spaces, workplaces, and educational institutions.
@@ -210,3 +211,4 @@ You can view and interact with this dashboard report [here](https://public.table
 
 
 ## Thank You For Following Through!
+![](images/Thank_you.jpg)
