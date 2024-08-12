@@ -69,8 +69,7 @@ This dataset is made up of a single table with 9 columns and 36 rows of data rep
 1. Microsoft Excel
     - Was used to:
         1. Was used to save extracted data from NCDC website,
-        2. Transform,
-        3. Load the dataset for this analysis.
+        2. Transform the dataset for this analysis.
      
 2. Tableau (Was used to create dashboards for this analysis)
     - The following Tableau features were incorporated:
